@@ -1,0 +1,24 @@
+# Compiled output
+/cask
+/*.o
+/*.a
+/*.so
+
+# Local databases, encrypted records, keys, and containers
+*.db
+*.sqlite
+*.sqlite3
+*.key
+master.key
+*.eater
+*.container
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Local logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
